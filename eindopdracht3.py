@@ -2,7 +2,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import random
-
+# dit heb je goed gedaan Brian!
 # Klasse voor het spel "Getallen raden" - Gemaakt door Bryan
 class NumberGuessingGame(tk.Frame):
     def __init__(self, master, *args, **kwargs):
